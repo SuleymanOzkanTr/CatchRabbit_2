@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchRabbit_2", "CatchRabbit_2.csproj", "{CC929322-81CE-42E8-81F1-DB2AF2C96EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Debug|Default.Build.0 = Debug|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Release|Default.ActiveCfg = Release|Any CPU
+		{CC929322-81CE-42E8-81F1-DB2AF2C96EED}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B0AF46-C015-4D57-99EB-24B0055C9157}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
